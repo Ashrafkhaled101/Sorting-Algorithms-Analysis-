@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521566353 source:c:\users\k i n g\desktop\ds\analysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1521566353 source:c:\users\k i n g\desktop\ds sorting algorithms\analysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
